@@ -19,15 +19,15 @@ var student = {
   freshman: 4.0,
   sophmore: 4.87,
   junior: 5.30,
-  senior: 6.8,
-   function getGpa(){
+  senior: 6.8
+  };
+
+ function getGpa(){
     var gpa = 
  student.freshman + student.sophmore + student.junior +student.senior / 4;
  console.log(gpa);
 }
 getGpa();
 
-};
-
-console.log(fullname);
-console.log(student);
+//console.log(fullname);
+//console.log(student);
