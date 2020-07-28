@@ -21,6 +21,7 @@ var student = {
   junior: 5.30,
   senior: 6.8
   };
+console.log(student);
 
  function getGpa(){
     var gpa = 
@@ -29,5 +30,12 @@ var student = {
 }
 getGpa();
 
-//console.log(fullname);
-//console.log(student);
+var player = {
+  name: "unknown",
+  color: "red/yellow/brown",
+  accessories: "sachel and chicken friend",
+  race: "cat",
+  likes: "sushi and sweets",
+  goal: "find the ancient wish rose"
+};
+console.log(player);
