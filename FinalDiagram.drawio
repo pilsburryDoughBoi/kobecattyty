@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T16:14:13.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="OVFeezlrk0pkJKs0eG-p" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T16:16:42.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="LWk6L140Nv06k3M77QZQ" version="15.5.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,16 +112,16 @@
         <mxCell id="a3GKjRGJWeOGh6iZVuP2-39" value="Footer" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iEm-wwM7q4pxqRBO0HhZ-0" value="Paragraph on my style" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iEm-wwM7q4pxqRBO0HhZ-0" value="Style list" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="380" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iEm-wwM7q4pxqRBO0HhZ-1" value="Paragraph on my style" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="460" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iEm-wwM7q4pxqRBO0HhZ-2" value="Paragraph on my style" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iEm-wwM7q4pxqRBO0HhZ-2" value="Contact" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="540" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iEm-wwM7q4pxqRBO0HhZ-3" value="Link to get Rick Rolled" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iEm-wwM7q4pxqRBO0HhZ-3" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iEm-wwM7q4pxqRBO0HhZ-4" value="Links to each song" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -160,6 +160,18 @@
             <mxPoint x="740" y="200" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OWJtN39UtqV0IVS7BHwt-7" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="595" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWJtN39UtqV0IVS7BHwt-8" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="605" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWJtN39UtqV0IVS7BHwt-9" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="615" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWJtN39UtqV0IVS7BHwt-10" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="625" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
